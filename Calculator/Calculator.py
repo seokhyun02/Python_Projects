@@ -23,7 +23,7 @@ def evaluate_calculation():
 
 
 
-    
+    dagga
 
 def clear_field():
     global calculation
